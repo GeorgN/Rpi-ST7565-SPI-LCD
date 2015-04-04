@@ -39,3 +39,7 @@ Most of the details are packed up with this program.
 ****
 The next steps would be integrate this driver into the Frame Buffer kernel driver inside Raspberry Pi.
 
+******
+
+License:
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License]( http://creativecommons.org/licenses/by-sa/4.0/).
